@@ -28,7 +28,7 @@ This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS.
 
 ## Deployed Site
 
-Here is the live demo for this projects. Click on the links to explore the fully functional versions and see how this project showcases different aspects of frontend development: [Apple iPhone 15 Pro Clone](https://astonishing-moxie-0e08f9.netlify.app/)
+Here is the live demo for this projects. Click on the links to explore the fully functional versions and see how this project showcases different aspects of frontend development: [Apple iPhone 15 Pro Clone](https://project-apple-iphone-15.vercel.app/)
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
